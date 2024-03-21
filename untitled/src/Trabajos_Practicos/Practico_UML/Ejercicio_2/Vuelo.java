@@ -1,4 +1,4 @@
-package Practico_UML.Ejercicio_1;
+package Trabajos_Practicos.Practico_UML.Ejercicio_2;
 
 public class Vuelo {
     private int flightNumber;

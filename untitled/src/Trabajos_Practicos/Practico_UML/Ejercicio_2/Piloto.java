@@ -1,4 +1,4 @@
-package Practico_UML.Ejercicio_2;
+package Trabajos_Practicos.Practico_UML.Ejercicio_2;
 
 public class Piloto extends Persona implements Volador {
     private String credential;

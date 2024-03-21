@@ -1,4 +1,4 @@
-package Practico_UML.Ejercicio_2;
+package Trabajos_Practicos.Practico_UML.Ejercicio_1;
 
 import java.util.ArrayList;
 import java.util.List;
