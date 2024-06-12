@@ -18,7 +18,7 @@ dependencies {
     // implementation 'org.springframework:spring-orm:5.3.23'    // Para integración con Spring ORM
 
     // Base de datos H2 para desarrollo
-    runtimeOnly 'com.h2database:h2:1.4.200'
+    runtimeOnly 'com.h2database:h2:2.2.220'
 }
 
 test {
