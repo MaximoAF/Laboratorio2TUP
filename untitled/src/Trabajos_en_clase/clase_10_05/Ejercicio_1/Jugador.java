@@ -1,4 +1,4 @@
-package Trabajos_en_clase.clase_10_05;
+package Trabajos_en_clase.clase_10_05.Ejercicio_1;
 
 public class Jugador {
     private String nombre;

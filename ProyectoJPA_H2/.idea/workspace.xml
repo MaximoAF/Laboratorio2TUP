@@ -5,17 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d61303f-a448-4aec-8d80-bb0cac137dbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoH2_JPA/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProyectoH2_JPA/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoH2_JPA/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ProyectoH2_JPA/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoH2_JPA/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProyectoH2_JPA/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Trabajos_Practicos/Practico_UML/Ejercicio_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/Trabajos_Practicos/Practico_UML/Ejercicio_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Trabajos_Practicos/Practico_UML/Ejercicio_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/Trabajos_Practicos/Practico_UML/Ejercicio_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Trabajos_en_clase/clase_10_05/Ejercicio_1/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/Trabajos_en_clase/clase_10_05/Ejercicio_1/Equipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Trabajos_en_clase/clase_10_05/Ejercicio_1/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/Trabajos_en_clase/clase_10_05/Ejercicio_1/Jugador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Trabajos_en_clase/clase_10_05/Ejercicio_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/Trabajos_en_clase/clase_10_05/Ejercicio_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Trabajos_en_clase/clase_10_05/Ejercicio_2/Pila.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/Trabajos_en_clase/clase_10_05/Ejercicio_2/Pila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Articulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/ArticuloInsumo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/ArticuloManufacturado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/ArticuloManufacturadoDetalle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Categoria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/DetallePedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Domicilio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Empresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Factura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Imagen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/ImagenArticulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/ImagenCliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/ImagenEmpleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/ImagenPromocion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Localidad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Pais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Pedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Promocion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/PromocionDetalle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Provincia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Sucursal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/UnidadMedida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/UsuarioCliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/entities/UsuarioEmpleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +89,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/hpenvy/Downloads/Parcial_1_DevHype/Parcial_1/ProyectoJPA_H2",
+    "last_opened_file_path": "C:/Users/hpenvy/OneDrive/Desktop/VSC-Maximo/UNT/Semester2/Laboratorio2TUP/ProyectoJPA_H2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
@@ -78,6 +111,7 @@
       <workItem from="1717855850474" duration="3677000" />
       <workItem from="1718045636962" duration="9333000" />
       <workItem from="1718150350778" duration="1496000" />
+      <workItem from="1718152370159" duration="148000" />
     </task>
     <servers />
   </component>
